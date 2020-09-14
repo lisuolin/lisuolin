@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/lisuolin/lisuolin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lisuolin/lisuolin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 自我基本介绍
+我叫李锁林，来自山东省淄博市淄博职业学院，目前是一名大二学生，本人平时喜欢看看书，听听音乐，闲暇时刻喜欢打游戏，已经玩过市面上大多数的热门游戏，不论是pc
+还是安卓手游。**
+### 对计算机专业的畅想
+当初选择这个专业其实目的很简单，因为平时喜欢打游戏，所以就有一个想制作出一款让所有人都喜欢的游戏**
+### 当前技能树与技术偏好
+上个学期学习的java界面制作，制作了一个简易的学工系统，在这个过程中，让我受益良多。**
+- **
